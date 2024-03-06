@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/unicorns-care/static/css/main.317208ac.css",
+    "main.js": "/unicorns-care/static/js/main.a16b2247.js",
+    "static/media/fond-arc-en-ciel.png": "/unicorns-care/static/media/fond-arc-en-ciel.d6cbe9958227f276c482.png",
+    "static/media/bg_cream.svg": "/unicorns-care/static/media/bg_cream.b7b477f7022a8ace1458.svg",
+    "static/media/bg_green.svg": "/unicorns-care/static/media/bg_green.5db3c00eb046c4df0741.svg",
+    "static/media/bg_orange.svg": "/unicorns-care/static/media/bg_orange.330f2dbf07e04516bdae.svg",
+    "static/media/arrow2_d_orange.svg": "/unicorns-care/static/media/arrow2_d_orange.c403391e36399d2a3f9c.svg",
+    "static/media/arrow2_d_cream.svg": "/unicorns-care/static/media/arrow2_d_cream.0c39fcea7be87015876a.svg",
+    "static/media/arrow2_d_pink.svg": "/unicorns-care/static/media/arrow2_d_pink.f439d5509cb88a064773.svg",
+    "static/media/chapo_top_green.svg": "/unicorns-care/static/media/chapo_top_green.55755a0a0b1c00fc9f21.svg",
+    "static/media/chapo_bottom_green.svg": "/unicorns-care/static/media/chapo_bottom_green.c4a27f72eb73987f6786.svg",
+    "index.html": "/unicorns-care/index.html",
+    "main.317208ac.css.map": "/unicorns-care/static/css/main.317208ac.css.map",
+    "main.a16b2247.js.map": "/unicorns-care/static/js/main.a16b2247.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.317208ac.css",
+    "static/js/main.a16b2247.js"
+  ]
+}
